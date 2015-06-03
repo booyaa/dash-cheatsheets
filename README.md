@@ -1,6 +1,6 @@
 # dash cheatsheets
 
-Here's my collection of cheatsheets for the super useful [Dash](https://kapeli.com/dash). The official cheatsheets can be found [here](https://github.com/Kapeli/cheatset).
+Here's my collection of cheatsheets for the super useful [Dash](https://kapeli.com/dash). The official cheatsheets can be found [here](https://github.com/Kapeli/cheatsheets/tree/master/cheatsheets).
 
 Compiled version can be found in the cheatsheet directory. Source can be found in the source directory.
 
